@@ -1,3 +1,4 @@
+
 const items = document.querySelectorAll('.coverflow-item');
 let activeIndex = 0;
 
